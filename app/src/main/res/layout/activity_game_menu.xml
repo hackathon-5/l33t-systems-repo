@@ -141,9 +141,15 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:textAppearance="?android:attr/textAppearanceLarge"
-            android:text="@string/currency"
+            android:text="@string/currency0"
             android:id="@+id/textCurrenty"
-            android:layout_below="@+id/buttonLengthIncrease"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/redArmy"
+            android:id="@+id/textArmy"
             android:layout_centerHorizontal="true" />
 
     </RelativeLayout>

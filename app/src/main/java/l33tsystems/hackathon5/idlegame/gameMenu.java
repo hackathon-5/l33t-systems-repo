@@ -1,6 +1,7 @@
 package l33tsystems.hackathon5.idlegame;
 
 import android.app.Activity;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -53,7 +54,7 @@ public class gameMenu extends Activity {
         hideMenu();
         showDifficulty();
         resetTimeout();
-        setArmyName(getResources().getString(R.string.redArmy));
+        setArmyName(getResources().getString(R.string.redArmy), Color.RED);
     }
 
     // Called when the user clicks the Blue Button //
@@ -61,7 +62,7 @@ public class gameMenu extends Activity {
         hideMenu();
         showDifficulty();
         resetTimeout();
-        setArmyName(getResources().getString(R.string.blueArmy));
+        setArmyName(getResources().getString(R.string.blueArmy), Color.BLUE);
     }
 
     // Called when the user clicks the Green Button //
@@ -69,7 +70,7 @@ public class gameMenu extends Activity {
         hideMenu();
         showDifficulty();
         resetTimeout();
-        setArmyName(getResources().getString(R.string.greenArmy));
+        setArmyName(getResources().getString(R.string.greenArmy), Color.GREEN);
     }
 
     // Called when the user clicks the Exit Button //
@@ -206,8 +207,10 @@ public class gameMenu extends Activity {
         timeout = 30;
     }
 
-    private void setArmyName(String name) {
-        // TODO:  Change Army Name Label
+    private void setArmyName(String name, int color) {
+        TextView armyName = (TextView) findViewById(R.id.textArmy);
+        armyName.setText(name);
+        armyName.setTextColor(color);
     }
 
     private void disableLength() {

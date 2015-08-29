@@ -23,4 +23,5 @@
     <string name="length2">Normal</string>
     <string name="length3">Extensive</string>
     <string name="length4">Random</string>
+    <string name="currency0">Bytes</string>
 </resources>

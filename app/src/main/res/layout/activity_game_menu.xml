@@ -1,0 +1,187 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin" tools:context=".gameMenu">
+
+    <!-- GAME MENU START -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:id="@+id/layoutMenu">
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/red"
+            android:id="@+id/buttonRed"
+            android:onClick="onClickRed"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentStart="false" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/blue"
+            android:id="@+id/buttonBlue"
+            android:onClick="onClickBlue"
+            android:layout_below="@+id/buttonRed"
+            android:layout_alignStart="@+id/buttonRed" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/green"
+            android:id="@+id/buttonGreen"
+            android:onClick="onClickGreen"
+            android:layout_below="@+id/buttonBlue"
+            android:layout_centerHorizontal="true" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/exit"
+            android:id="@+id/buttonExit"
+            android:onClick="onClickExit"
+            android:layout_centerVertical="true"
+            android:layout_alignParentStart="true" />
+    </RelativeLayout>
+    <!-- GAME MENU END -->
+
+    <!-- DIFFICULTY PAGE START -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/layoutDifficulty">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/difficulty"
+            android:id="@+id/textDifficulty"
+            android:layout_centerVertical="true" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/increase"
+            android:id="@+id/buttonDifficultyIncrease"
+            android:onClick="onClickDifficultyIncrease"
+            android:layout_below="@+id/textDifficulty"
+            android:layout_alignParentStart="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/difficulty"
+            android:id="@+id/textDifficultyValue"
+            android:layout_below="@+id/buttonDifficultyIncrease"
+            android:layout_centerHorizontal="true" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/decrease"
+            android:id="@+id/buttonDifficultyDecrease"
+            android:onClick="onClickDifficultyDecrease"
+            android:layout_below="@+id/textDifficultyValue"
+            android:layout_alignParentStart="true" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/length"
+            android:id="@+id/textLength"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/increase"
+            android:id="@+id/buttonLengthIncrease"
+            android:onClick="onClickLengthIncrease"
+            android:layout_below="@+id/textLength"
+            android:layout_alignParentStart="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/length"
+            android:id="@+id/textLengthValue"
+            android:layout_below="@+id/buttonLengthIncrease"
+            android:layout_centerHorizontal="true" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/decrease"
+            android:id="@+id/buttonLengthDecrease"
+            android:onClick="onClickLengthDecrease"
+            android:layout_below="@+id/textLengthValue"
+            android:layout_alignParentStart="true" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/start"
+            android:id="@+id/buttonStartGame"
+            android:onClick="onClickStartGame"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true" />
+    </RelativeLayout>
+    <!-- DIFFICULTY PAGE END -->
+
+    <!-- GAME PAGE START -->
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentStart="true"
+        android:id="@+id/layoutGame">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/currency0"
+            android:id="@+id/textCurrenty"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/redArmy"
+            android:id="@+id/textArmy"
+            android:layout_centerHorizontal="true" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/increase"
+            android:id="@+id/buttonIncreaseBuilding0"
+            android:onClick="onClickIncreaseBuilding0"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/building0"
+            android:id="@+id/textBuilding0"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/building0Units"
+            android:id="@+id/textBuilding0Units"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/currency0"
+            android:id="@+id/building0Currency"
+            android:layout_centerHorizontal="true" />
+
+    </RelativeLayout>
+    <!-- GAME PAGE END -->
+
+</RelativeLayout>

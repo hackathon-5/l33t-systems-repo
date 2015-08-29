@@ -24,6 +24,16 @@
         android:layout_below="@+id/txtArmyName"
         android:layout_centerHorizontal="true" />
 
+    <Button
+        style="?android:attr/buttonStyleSmall"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/increase"
+        android:id="@+id/btnBuildingIncrease"
+        android:onClick="increaseBuilding"
+        android:layout_below="@+id/txtBuildingCurrency"
+        android:layout_centerHorizontal="true" />
+
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -50,6 +60,24 @@
         android:text="@string/buildingCurrency"
         android:id="@+id/txtBuildingCurrency"
         android:layout_below="@+id/txtBuildingUnits"
+        android:layout_centerHorizontal="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/battle"
+        android:id="@+id/btnBattle"
+        android:onClick="startBattle"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:text=""
+        android:id="@+id/txtBattleStatistics"
+        android:layout_above="@+id/btnBattle"
         android:layout_centerHorizontal="true" />
 
 </RelativeLayout>

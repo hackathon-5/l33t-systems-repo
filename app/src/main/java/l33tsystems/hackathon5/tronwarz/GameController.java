@@ -15,6 +15,8 @@ public class GameController {
     public Integer buildingCurrencyPerSecond = 0;
     public Integer buildingCost = 0;
 
+    public Integer bonus = 0;
+
     public GameController() {
         buildings += 1;
         onTick();
@@ -27,8 +29,8 @@ public class GameController {
     }
 
     private void checkBuildingCalculations() {
-        buildingUnitsPerSecond = buildings * 10;
-        buildingCurrencyPerSecond = buildings ^ 2;
+        buildingUnitsPerSecond = (buildings * 10) * (1 + bonus);
+        buildingCurrencyPerSecond = (buildings ^ 2) * (1 + bonus);
         buildingCost = buildings ^ 3;
     }
 

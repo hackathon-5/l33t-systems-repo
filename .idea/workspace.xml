@@ -9,50 +9,8 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="Show only selected application" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="334b1c07-d8bb-431d-9d9a-d67fc19c0406" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/java/l33tsystems/hackathon5/tronwarz/DifficultySelection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_difficulty_selection.xml" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\.idea\.name" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\.idea\compiler.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\.idea\copyright\profiles_settings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\.idea\encodings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\.idea\gradle.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\.idea\l33t-systems-repo.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\.idea\runConfigurations.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\.gitignore" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\app.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\proguard-rules.pro" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\src\androidTest\java\l33tsystems\hackathon5\idlegame\ApplicationTest.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\src\main\AndroidManifest.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\src\main\java\l33tsystems\hackathon5\idlegame\GameController.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\src\main\java\l33tsystems\hackathon5\idlegame\gameMenu.java" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\src\main\res\layout\activity_game_menu.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\src\main\res\mipmap-hdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\src\main\res\mipmap-mdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\src\main\res\mipmap-xhdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\src\main\res\mipmap-xxhdpi\ic_launcher.png" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\src\main\res\values-v21\styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\src\main\res\values-w820dp\dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\src\main\res\values\dimens.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\src\main\res\values\strings.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\src\main\res\values\styles.xml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\build.gradle" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\gradle.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\gradle\wrapper\gradle-wrapper.jar" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\gradle\wrapper\gradle-wrapper.properties" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\gradlew" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\gradlew.bat" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\l33t-systems-repo.iml" afterPath="" />
-      <change type="DELETED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\settings.gradle" afterPath="" />
-      <change type="MOVED" beforePath="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\app\src\main\res\menu\menu_game_menu.xml" afterPath="$PROJECT_DIR$/app/src/main/res/menu/menu_difficulty_selection.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/misc.xml" afterPath="$PROJECT_DIR$/../.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/modules.xml" afterPath="$PROJECT_DIR$/../.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/vcs.xml" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/workspace.xml" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" />
-    </list>
-    <ignored path="Tron Warz.iws" />
+    <list default="true" id="9a259530-aa76-4cfa-9848-89cd20469fee" name="Default" comment="" />
+    <ignored path="l33t-systems-repo.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -74,71 +32,18 @@
     </system>
   </component>
   <component name="FavoritesManager">
-    <favorites_list name="Tron Warz" />
+    <favorites_list name="l33t-systems-repo" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="MainMenu.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/l33tsystems/hackathon5/tronwarz/MainMenu.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
-              <folding>
-                <element signature="e#1308#1309#0" expanded="true" />
-                <element signature="e#1329#1371#0" expanded="true" />
-                <element signature="e#1378#1379#0" expanded="true" />
-                <element signature="e#1419#1420#0" expanded="true" />
-                <element signature="e#1440#1483#0" expanded="true" />
-                <element signature="e#1490#1491#0" expanded="true" />
-                <element signature="e#1532#1533#0" expanded="true" />
-                <element signature="e#1553#1597#0" expanded="true" />
-                <element signature="e#1604#1605#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_main_menu.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main_menu.xml">
+      <file leaf-file-name="activity_game.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_game.xml">
           <provider editor-type-id="android-designer">
             <state />
           </provider>
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.5">
-              <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
-              <folding>
-                <element signature="e#586#605#0" expanded="true" />
-                <element signature="e#898#918#0" expanded="true" />
-                <element signature="e#1215#1236#0" expanded="true" />
-                <element signature="e#1536#1550#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="GameActivity.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/src/main/java/l33tsystems/hackathon5/tronwarz/GameActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="2.0461538">
-              <caret line="96" column="41" selection-start-line="96" selection-start-column="41" selection-end-line="96" selection-end-column="41" />
-              <folding>
-                <element signature="e#1240#1399#0" expanded="true" />
-                <element signature="e#1398#1399#0" expanded="true" />
-                <element signature="e#3376#3423#0" expanded="true" />
-                <element signature="e#3670#3718#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="activity_game.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_game.xml">
-          <provider selected="true" editor-type-id="android-designer">
-            <state />
-          </provider>
-          <provider editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+            <state vertical-scroll-proportion="-13.617647">
+              <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
               <folding>
                 <element signature="e#223#258#0" expanded="true" />
                 <element signature="e#284#319#0" expanded="true" />
@@ -146,9 +51,11 @@
                 <element signature="e#403#436#0" expanded="true" />
                 <element signature="e#695#712#0" expanded="true" />
                 <element signature="e#1039#1057#0" expanded="true" />
-                <element signature="e#1387#1409#0" expanded="true" />
-                <element signature="e#1782#1805#0" expanded="true" />
-                <element signature="e#2143#2169#0" expanded="true" />
+                <element signature="e#1364#1382#0" expanded="true" />
+                <element signature="e#1771#1793#0" expanded="true" />
+                <element signature="e#2166#2189#0" expanded="true" />
+                <element signature="e#2527#2553#0" expanded="true" />
+                <element signature="e#2826#2842#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -157,9 +64,22 @@
       <file leaf-file-name="strings.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-9.5625">
-              <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+            <state vertical-scroll-proportion="-12.75">
+              <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="GameActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/l33tsystems/hackathon5/tronwarz/GameActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.0632479">
+              <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
+              <folding>
+                <element signature="e#4643#4690#0" expanded="true" />
+                <element signature="e#4937#4985#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -168,28 +88,13 @@
         <entry file="file://$PROJECT_DIR$/app/src/main/java/l33tsystems/hackathon5/tronwarz/GameController.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
-              <folding>
-                <element signature="e#825#826#0" expanded="true" />
-                <element signature="e#880#881#0" expanded="true" />
-                <element signature="e#914#915#0" expanded="true" />
-                <element signature="e#974#975#0" expanded="true" />
-              </folding>
+              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
-  </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GradleLocalSettings">
     <option name="availableProjects">
@@ -197,7 +102,7 @@
         <entry>
           <key>
             <ExternalProjectPojo>
-              <option name="name" value="l33tsystems-repo" />
+              <option name="name" value="l33t-systems-repo" />
               <option name="path" value="$PROJECT_DIR$" />
             </ExternalProjectPojo>
           </key>
@@ -208,7 +113,7 @@
                 <option name="path" value="$PROJECT_DIR$/app" />
               </ExternalProjectPojo>
               <ExternalProjectPojo>
-                <option name="name" value="l33tsystems-repo" />
+                <option name="name" value="l33t-systems-repo" />
                 <option name="path" value="$PROJECT_DIR$" />
               </ExternalProjectPojo>
             </list>
@@ -222,17 +127,17 @@
           <value>
             <list>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the components produced by root project 'l33tsystems-repo'. [incubating]" />
+                <option name="description" value="Displays the components produced by root project 'l33t-systems-repo'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="components" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays all dependencies declared in root project 'l33tsystems-repo'." />
+                <option name="description" value="Displays all dependencies declared in root project 'l33t-systems-repo'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencies" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the insight into a specific dependency in root project 'l33tsystems-repo'." />
+                <option name="description" value="Displays the insight into a specific dependency in root project 'l33t-systems-repo'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="dependencyInsight" />
               </ExternalTaskPojo>
@@ -247,22 +152,22 @@
                 <option name="name" value="init" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the configuration model of root project 'l33tsystems-repo'. [incubating]" />
+                <option name="description" value="Displays the configuration model of root project 'l33t-systems-repo'. [incubating]" />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="model" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the sub-projects of root project 'l33tsystems-repo'." />
+                <option name="description" value="Displays the sub-projects of root project 'l33t-systems-repo'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="projects" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the properties of root project 'l33tsystems-repo'." />
+                <option name="description" value="Displays the properties of root project 'l33t-systems-repo'." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="properties" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
-                <option name="description" value="Displays the tasks runnable from root project 'l33tsystems-repo' (some of the displayed tasks may belong to subprojects)." />
+                <option name="description" value="Displays the tasks runnable from root project 'l33t-systems-repo' (some of the displayed tasks may belong to subprojects)." />
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="tasks" />
               </ExternalTaskPojo>
@@ -1282,7 +1187,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\l33tsystems-repo" value="4322555557432" />
+        <entry key="C:\Users\Chele\Documents\GitHub\l33t-systems-repo\l33t-systems-repo" value="4322555557432" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1598,12 +1503,9 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_difficulty_selection.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/l33tsystems/hackathon5/tronwarz/MainMenu.java" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_main_menu.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_game.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/l33tsystems/hackathon5/tronwarz/GameController.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
+        <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_game.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/l33tsystems/hackathon5/tronwarz/GameActivity.java" />
       </list>
     </option>
@@ -1617,14 +1519,14 @@
     <option name="width" value="1858" />
     <option name="height" value="1098" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="0" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -1640,17 +1542,18 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="ProjectPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Tron Warz" />
+              <option name="myItemId" value="l33t-systems-repo" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Tron Warz" />
+              <option name="myItemId" value="l33t-systems-repo" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1668,7 +1571,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Tron Warz" />
+              <option name="myItemId" value="l33t-systems-repo" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1682,7 +1585,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Tron Warz" />
+              <option name="myItemId" value="l33t-systems-repo" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1700,7 +1603,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Tron Warz" />
+              <option name="myItemId" value="l33t-systems-repo" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1714,7 +1617,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Tron Warz" />
+              <option name="myItemId" value="l33t-systems-repo" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1732,7 +1635,7 @@
           </PATH>
           <PATH>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Tron Warz" />
+              <option name="myItemId" value="l33t-systems-repo" />
               <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -1743,29 +1646,16 @@
         </subPane>
       </pane>
       <pane id="Scratches" />
-      <pane id="PackagesPane" />
       <pane id="Scope" />
-      <pane id="ProjectPane" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="android.sdk-updates" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="recentsLimit" value="5" />
-    <property name="last_opened_file_path" value="$USER_HOME$/AppData/Local/GitHub/PortableGit_c2ba306e536fdf878271f7fe636a147ff37326ad/bin/git.exe" />
-    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager2.WIDTH" value="546" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="emulator-5554" />
     <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_AVD" value="Copy_of_Nexus_5_API_21_x86" />
-  </component>
-  <component name="RecentsManager">
-    <key name="android.template.packageName">
-      <recent name="l33tsystems.hackathon5.tronwarz" />
-    </key>
-    <key name="android.template.parentActivityClass">
-      <recent name="l33tsystems.hackathon5.tronwarz.DifficultySelection" />
-      <recent name="" />
-      <recent name="l33tsystems.hackathon5.tronwarz.MainMenu" />
-    </key>
   </component>
   <component name="RunManager" selected="Android Application.app">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
@@ -1774,36 +1664,6 @@
       <option name="MODE" value="default_activity" />
       <option name="DEPLOY" value="true" />
       <option name="ARTIFACT_NAME" value="" />
-      <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
-      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
-      <option name="PREFERRED_AVD" value="" />
-      <option name="USE_COMMAND_LINE" value="true" />
-      <option name="COMMAND_LINE" value="" />
-      <option name="WIPE_USER_DATA" value="false" />
-      <option name="DISABLE_BOOT_ANIMATION" value="false" />
-      <option name="NETWORK_SPEED" value="full" />
-      <option name="NETWORK_LATENCY" value="none" />
-      <option name="CLEAR_LOGCAT" value="false" />
-      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="FILTER_LOGCAT_AUTOMATICALLY" value="true" />
-      <option name="SELECTED_CLOUD_MATRIX_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_MATRIX_PROJECT_ID" value="" />
-      <option name="SELECTED_CLOUD_DEVICE_CONFIGURATION_ID" value="0" />
-      <option name="SELECTED_CLOUD_DEVICE_PROJECT_ID" value="" />
-      <option name="IS_VALID_CLOUD_MATRIX_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_MATRIX_SELECTION_ERROR" value="" />
-      <option name="IS_VALID_CLOUD_DEVICE_SELECTION" value="false" />
-      <option name="INVALID_CLOUD_DEVICE_SELECTION_ERROR" value="" />
-      <option name="CLOUD_DEVICE_SERIAL_NUMBER" value="" />
-      <method />
-    </configuration>
-    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
-      <module name="" />
-      <option name="TESTING_TYPE" value="0" />
-      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="PACKAGE_NAME" value="" />
       <option name="TARGET_SELECTION_MODE" value="EMULATOR" />
       <option name="USE_LAST_SELECTED_DEVICE" value="false" />
       <option name="PREFERRED_AVD" value="" />
@@ -1861,11 +1721,6 @@
       </option>
       <envs />
       <patterns />
-      <method />
-    </configuration>
-    <configuration default="true" type="JarApplication" factoryName="JAR Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="Remote" factoryName="Remote">
@@ -1950,15 +1805,12 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
-  <component name="SvnConfiguration">
-    <configuration />
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="334b1c07-d8bb-431d-9d9a-d67fc19c0406" name="Default" comment="" />
-      <created>1440851855644</created>
+      <changelist id="9a259530-aa76-4cfa-9848-89cd20469fee" name="Default" comment="" />
+      <created>1440868654464</created>
       <option name="number" value="Default" />
-      <updated>1440851855644</updated>
+      <updated>1440868654464</updated>
     </task>
     <servers />
   </component>
@@ -1967,10 +1819,10 @@
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32899022" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -2003,87 +1855,21 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/l33tsystems/hackathon5/tronwarz/DifficultySelection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.11623932">
-          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_difficulty_selection.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.21597096">
-          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/l33tsystems/hackathon5/tronwarz/MainMenu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="57" column="23" selection-start-line="57" selection-start-column="23" selection-end-line="57" selection-end-column="23" />
-          <folding>
-            <element signature="e#1308#1309#0" expanded="true" />
-            <element signature="e#1329#1371#0" expanded="true" />
-            <element signature="e#1378#1379#0" expanded="true" />
-            <element signature="e#1419#1420#0" expanded="true" />
-            <element signature="e#1440#1483#0" expanded="true" />
-            <element signature="e#1490#1491#0" expanded="true" />
-            <element signature="e#1532#1533#0" expanded="true" />
-            <element signature="e#1553#1597#0" expanded="true" />
-            <element signature="e#1604#1605#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-9.5625">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="41" selection-end-line="18" selection-end-column="41" />
+        <state vertical-scroll-proportion="-12.75">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_main_menu.xml">
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.5">
-          <caret line="39" column="36" selection-start-line="39" selection-start-column="36" selection-end-line="39" selection-end-column="36" />
-          <folding>
-            <element signature="e#586#605#0" expanded="true" />
-            <element signature="e#898#918#0" expanded="true" />
-            <element signature="e#1215#1236#0" expanded="true" />
-            <element signature="e#1536#1550#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/l33tsystems/hackathon5/tronwarz/GameController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="48" selection-start-line="29" selection-start-column="48" selection-end-line="29" selection-end-column="48" />
-          <folding>
-            <element signature="e#825#826#0" expanded="true" />
-            <element signature="e#880#881#0" expanded="true" />
-            <element signature="e#914#915#0" expanded="true" />
-            <element signature="e#974#975#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/activity_game.xml">
-      <provider selected="true" editor-type-id="android-designer">
+      <provider editor-type-id="android-designer">
         <state />
       </provider>
-      <provider editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="33" column="46" selection-start-line="33" selection-start-column="46" selection-end-line="33" selection-end-column="46" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.617647">
+          <caret line="34" column="49" selection-start-line="34" selection-start-column="49" selection-end-line="34" selection-end-column="49" />
           <folding>
             <element signature="e#223#258#0" expanded="true" />
             <element signature="e#284#319#0" expanded="true" />
@@ -2091,22 +1877,30 @@
             <element signature="e#403#436#0" expanded="true" />
             <element signature="e#695#712#0" expanded="true" />
             <element signature="e#1039#1057#0" expanded="true" />
-            <element signature="e#1387#1409#0" expanded="true" />
-            <element signature="e#1782#1805#0" expanded="true" />
-            <element signature="e#2143#2169#0" expanded="true" />
+            <element signature="e#1364#1382#0" expanded="true" />
+            <element signature="e#1771#1793#0" expanded="true" />
+            <element signature="e#2166#2189#0" expanded="true" />
+            <element signature="e#2527#2553#0" expanded="true" />
+            <element signature="e#2826#2842#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/l33tsystems/hackathon5/tronwarz/GameController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/l33tsystems/hackathon5/tronwarz/GameActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="2.0461538">
-          <caret line="96" column="41" selection-start-line="96" selection-start-column="41" selection-end-line="96" selection-end-column="41" />
+        <state vertical-scroll-proportion="-1.0632479">
+          <caret line="84" column="0" selection-start-line="84" selection-start-column="0" selection-end-line="84" selection-end-column="0" />
           <folding>
-            <element signature="e#1240#1399#0" expanded="true" />
-            <element signature="e#1398#1399#0" expanded="true" />
-            <element signature="e#3376#3423#0" expanded="true" />
-            <element signature="e#3670#3718#0" expanded="true" />
+            <element signature="e#4643#4690#0" expanded="true" />
+            <element signature="e#4937#4985#0" expanded="true" />
           </folding>
         </state>
       </provider>

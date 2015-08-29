@@ -18,4 +18,9 @@
     <string name="buildingName">Barrax</string>
     <string name="buildingUnits">Soldiers</string>
     <string name="buildingCurrency">+$/sec - $Cost</string>
+
+    <string name="increase">+</string>
+    <string name="decrease">-</string>
+
+    <string name="battle">Attack!</string>
 </resources>

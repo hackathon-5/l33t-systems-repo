@@ -7,8 +7,10 @@ import android.os.Handler;
 import android.os.Looper;
 import android.view.Menu;
 import android.view.MenuItem;
+import android.view.View;
 import android.widget.TextView;
 
+import java.util.Random;
 import java.util.Timer;
 import java.util.TimerTask;
 
@@ -72,6 +74,33 @@ public class GameActivity extends Activity {
         }
 
         return super.onOptionsItemSelected(item);
+    }
+
+    public void increaseBuilding(View view) {
+        if (controller.currentCurrency >= controller.buildingCost) {
+            controller.buildings += 1;
+            controller.currentCurrency -= controller.buildingCost;
+        }
+    }
+
+    public void startBattle(View view) {
+        Random rnd = new Random(System.nanoTime());
+        Integer compScore;
+        String status;
+        if (rnd.nextBoolean()) {    // WIN
+            double compScoreDbl = controller.buildingUnits - (rnd.nextInt(controller.buildingUnits)*.1);
+            compScore = (int) compScoreDbl;
+            status = "You Won!!";
+            controller.bonus += 1;
+        } else {
+            double compScoreDbl = controller.buildingUnits + (rnd.nextInt(controller.buildingUnits)*.1);
+            compScore = (int) compScoreDbl;
+            status = "You Lost!?";
+        }
+        TextView statistics = (TextView) findViewById(R.id.txtBattleStatistics);
+        statistics.setText(status + "\r\n" + "Your Score:\t" + controller.buildingUnits + "\r\n" + "Opponent's Score:\t" + compScore);
+        if (compScore > controller.buildingUnits) { controller.buildingUnits = 0; }
+        else { controller.buildingUnits -= compScore; }
     }
 
     private void updateText() {

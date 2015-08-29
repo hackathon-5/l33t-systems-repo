@@ -25,6 +25,10 @@ public class gameMenu extends Activity {
         setContentView(R.layout.activity_game_menu);
 
         // TODO:  Check for Save.xml, and load saved game from it on startup
+
+        showMenu();
+        hideDifficulty();
+        hideGame();
     }
 
     @Override

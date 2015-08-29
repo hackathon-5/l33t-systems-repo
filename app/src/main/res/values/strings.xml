@@ -24,4 +24,6 @@
     <string name="length3">Extensive</string>
     <string name="length4">Random</string>
     <string name="currency0">Bytes</string>
+    <string name="building0">Barracks</string>
+    <string name="building0Units">Soldiers</string>
 </resources>

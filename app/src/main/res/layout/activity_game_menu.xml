@@ -151,6 +151,35 @@
             android:text="@string/redArmy"
             android:id="@+id/textArmy"
             android:layout_centerHorizontal="true" />
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/increase"
+            android:id="@+id/buttonIncreaseBuilding0"
+            android:onClick="onClickIncreaseBuilding0"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/building0"
+            android:id="@+id/textBuilding0"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/building0Units"
+            android:id="@+id/textBuilding0Units"
+            android:layout_centerHorizontal="true" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="@string/currency0"
+            android:id="@+id/building0Currency"
+            android:layout_centerHorizontal="true" />
 
     </RelativeLayout>
     <!-- GAME PAGE END -->

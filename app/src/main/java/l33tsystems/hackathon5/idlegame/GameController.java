@@ -1,7 +1,4 @@
 package l33tsystems.hackathon5.idlegame;
-
-import java.util.ArrayList;
-
 /**
  * Created by Chele89 on 8/29/2015.
  */

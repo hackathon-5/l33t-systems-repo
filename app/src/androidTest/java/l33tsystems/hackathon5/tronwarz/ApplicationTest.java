@@ -1,4 +1,4 @@
-package l33tsystems.hackathon5.idlegame;
+package l33tsystems.hackathon5.tronwarz;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;

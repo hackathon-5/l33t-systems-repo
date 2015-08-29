@@ -1,29 +1,21 @@
 <resources>
     <string name="app_name">Tron Warz</string>
+
     <string name="action_settings">Settings</string>
-    <string name="red">Rectify</string>
-    <string name="blue">Games</string>
-    <string name="green">De-resolution</string>
-    <string name="exit">Exit</string>
+    <string name="title_activity_difficulty_selection">DifficultySelection</string>
+    <string name="title_activity_game">GameActivity</string>
+
+    <string name="redSelect">Rectify</string>
     <string name="redArmy">Military</string>
+    <string name="blueSelect">Games</string>
     <string name="blueArmy">Rebel Forces</string>
+    <string name="greenSelect">De-Resolution</string>
     <string name="greenArmy">Militia</string>
-    <string name="difficulty">Difficulty Level</string>
-    <string name="length">Game Length</string>
-    <string name="increase">+</string>
-    <string name="decrease">-</string>
-    <string name="start">Start Game</string>
-    <string name="difficulty0">Freeplay</string>
-    <string name="difficulty1">Easy</string>
-    <string name="difficulty2">Normal</string>
-    <string name="difficulty3">Hard</string>
-    <string name="difficulty4">Random</string>
-    <string name="length0">Self-Paced</string>
-    <string name="length1">Quick</string>
-    <string name="length2">Normal</string>
-    <string name="length3">Extensive</string>
-    <string name="length4">Random</string>
-    <string name="currency0">Bytes</string>
-    <string name="building0">Barracks</string>
-    <string name="building0Units">Soldiers</string>
+    <string name="exit">Exit</string>
+
+    <string name="currency"># Bytes</string>
+
+    <string name="buildingName">Barrax</string>
+    <string name="buildingUnits">Soldiers</string>
+    <string name="buildingCurrency">+$/sec - $Cost</string>
 </resources>

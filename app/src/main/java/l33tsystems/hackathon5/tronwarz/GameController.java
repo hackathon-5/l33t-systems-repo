@@ -31,7 +31,7 @@ public class GameController {
     private void checkBuildingCalculations() {
         buildingUnitsPerSecond = (buildings * 10) * (1 + bonus);
         buildingCurrencyPerSecond = (buildings ^ 2) * (1 + bonus);
-        buildingCost = buildings * 10;
+        buildingCost = buildings * buildings;
     }
 
     private void addBuildingUnits() {
